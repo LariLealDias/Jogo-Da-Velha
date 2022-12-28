@@ -3,7 +3,7 @@ Jogo da velha com interação pelo console
 <br><br><br>
 
 ## 🔨 STATUS 🔨
-Finalizado ✔️
+![Badge](https://img.shields.io/badge/STATUS-desenvolvendo-%237159c1?style=for-the-badge&logo=ghost)
 
 ![Print1 - JogoDaVelha](https://user-images.githubusercontent.com/108475403/209734597-10e8d8f3-e60f-4718-8fd5-d58e89dba7f1.PNG)
 
